@@ -1,0 +1,17 @@
+{
+    "name": "demo",
+    "version": "1.0.0",
+    "description": "Event Managemnt System",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "electron ."
+    },
+    "keywords": [],
+    "author": "John Doe",
+    "license": "MIT",
+    "dependencies": {
+        "electron": "^24.1.0",
+        "toastify": "^2.0.1"
+    }
+}
